@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  body, h1, h2, h3, h4, .font-display {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans Sinhala', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    background-color: #090d16;
+    color: #f1f5f9;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'IBM Plex Mono', 'Plus Jakarta Sans', 'Noto Sans Sinhala', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}

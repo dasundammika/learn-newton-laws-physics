@@ -1,0 +1,6 @@
+{
+  "name": "Prathama Physics 3D — First-Principles Newtonian Mechanics Lab",
+  "description": "Interactive 3D Three.js physics dashboard for mastering Newton's Laws of Motion through First-Principles particle physics, ManimGX vector fields, PySR symbolic equation discovery, and bilingual Sinhala-English explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
